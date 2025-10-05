@@ -15,6 +15,18 @@ Architech helps teams bridge the gap between idea and implementation — by tran
 Whether you're planning new infrastructure, onboarding into an unfamiliar codebase, or communicating designs with non-technical stakeholders — Architech makes it intuitive, collaborative, and fast.
 
 ---
+## Projects We’re Building 🚧
+
+We’re not just building one tool — we’re building an ecosystem of developer-first products designed to make engineering faster, smarter, and more open.
+
+| Project | Description |
+|----------|-------------|
+| [**Architech**](https://www.architech-dev.tech/) | AI-powered system design and architecture visualization tool — from prompt to production-ready blueprint. |
+| [**Make-it-OSS**](https://github.com/architech-devs/make-it-oss) | Toolkit to transform your personal or team projects into thriving open-source initiatives. |
+| **Morphix** | A platform for generating, deploying, and evolving microservices using natural language and AI-driven scaffolding. |
+| **Mercury** | Coming soon. |
+
+---
 
 ## Creators
 
